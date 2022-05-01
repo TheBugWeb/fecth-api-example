@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Alexandre",
+      "email": "arogerot0@cloudflare.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Brit",
+      "email": "brosenhaupt1@umich.edu",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "first_name": "Carce",
+      "email": "cgartrell2@scientificamerican.com",
+      "gender": "Male"
+    }
+  ]
+}
