@@ -7,7 +7,7 @@ This is a project that implements the [Fetch API](https://developer.mozilla.org/
 Cloning project.
 
 ```bash
-git clone https://github.com/TheBugWeb/fecth-api-example.git
+git clone https://github.com/TheBugWeb/fetch-api-example.git
 ```
 
 Enter and open project
